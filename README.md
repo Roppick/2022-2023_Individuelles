@@ -1,7 +1,7 @@
 # :soccer: Statistiques Individuelles
 Ici, j'essaye de faire des #dataviz sur les joueurs et leurs performances en cours de saison
   
-:clipboard::arrow_upper_left: `Pour ceux qui ne sont pas familiers avec Github, vous pouvez cliquer sur le menu pour ngaviguer dans le contenu`
+:clipboard:`Pour ceux qui ne sont pas familiers avec Github, vous pouvez cliquer sur le menu pour naviguer dans le contenu`↗️:
 
 ## :doughnut: **Repartition des buts et des passes décicives**
 
